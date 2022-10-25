@@ -8,4 +8,4 @@
     - name: copy file to destination
       copy:
         src: /tmp/Souad/index.html
-        dst: /tmp/Souad/ansible-practice
+        dest: /tmp/Souad/ansible-practice
